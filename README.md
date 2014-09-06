@@ -4,5 +4,5 @@ Este repositorio tiene por objetivo juntar los ejemplos de clase vistos durante 
 
 ## Referencia
 
-* **Clase 01:** TBD
-* **Clase 02:** Punto.java
+* **Clase 01:** `Persona.java`, `Fraccion.java`
+* **Clase 02:** `Punto.java`
