@@ -4,5 +4,6 @@ Este repositorio tiene por objetivo juntar los ejemplos de clase vistos durante 
 
 ## Referencia
 
-* **Clase 01:** `Persona.java`, `Fraccion.java`
-* **Clase 02:** `Punto.java`
+* **Clase 01:** Uso básico de Java.
+* **Clase 02:** Clases, objetos.
+* **Clase 03:** Herencia.
