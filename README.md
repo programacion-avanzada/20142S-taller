@@ -7,3 +7,5 @@ Este repositorio tiene por objetivo juntar los ejemplos de clase vistos durante 
 * **Clase 01:** Uso básico de Java.
 * **Clase 02:** Clases, objetos.
 * **Clase 03:** Herencia.
+* **Clase 04:** Interfaces. Inmutabilidad.
+
