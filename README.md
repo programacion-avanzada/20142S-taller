@@ -8,4 +8,5 @@ Este repositorio tiene por objetivo juntar los ejemplos de clase vistos durante 
 * **Clase 02:** Clases, objetos.
 * **Clase 03:** Herencia.
 * **Clase 04:** Interfaces. Inmutabilidad.
+* **Clase 05:** Generics.
 
