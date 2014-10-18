@@ -4,7 +4,7 @@ import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.net.Socket;
 
-public class Cliente extends Thread {
+public class Cliente {
 
 	public Cliente() {
 		try {
